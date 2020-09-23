@@ -1,0 +1,4 @@
+# I use versions mentioned in the textbook
+
+Flask==1.0.3
+httpie==1.0.2
